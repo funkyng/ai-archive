@@ -1,0 +1,13 @@
+best_practices:
+  - category: "Typography"
+    tips:
+      - "Use a consistent scale for font sizes to maintain hierarchy."
+      - "Ensure sufficient contrast between text and background."
+  - category: "Color"
+    tips:
+      - "Limit your palette to a few core colors for brand consistency."
+      - "Use accessible color combinations for text and UI elements."
+  - category: "Layout"
+    tips:
+      - "Adhere to a grid system for alignment and spacing."
+      - "Provide ample white space to guide the user's eye."

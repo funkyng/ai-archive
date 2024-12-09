@@ -39,6 +39,11 @@ knowledge_and_references:
       description: "Inspiration from top creative agencies."
     - name: "design-icons.txt"
       description: "Insights on icon design systems."
+    - name: "UX_for_Mobile_Applications_and_W.pdf"
+      description: "UX for apps and webdesign guidelines"
+    - name: "universal-design-metods.pdf"
+      description: "100 most popular and effective methods for creating high-quality design work"     
+      
 
   external_resources:
     - name: "The Elements of Typographic Style"
@@ -63,6 +68,7 @@ knowledge_and_references:
       topic: "Design Systems"
       type: "Online Resource"
       description: "Good example of detailed design system"
+   
 
   idea_generation_framework:
     - name: "Metaphor, Simile, Personification"
